@@ -1,0 +1,128 @@
+@media screen and (min-width:280px) and (max-width:900px){
+    .sliderMainImg .img-fluid {
+        display: none !important;
+    }
+
+  
+.sliderDtls h1 {
+    color: #fff;
+    font-size: 1.6875rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+    position: relative;
+    right: -50px;
+}
+.sliderDtls h4 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 0.95rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    padding-left: 50px;
+    position: relative;
+}
+.sliderDtls h4:before {
+    content:'';
+    position:absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: rgb(60, 191, 174);
+    left: 20px;
+    top: -1px;
+
+
+}
+.sliderDtls h3 {
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: #cecece;
+    line-height: 34px;
+    margin-bottom: 35px;
+    position: relative;
+    right: -50px;
+}
+.btn-theme {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 0.9375rem;
+    font-weight: bold;
+    background: #3cbfae;
+    padding: 18px 45px;
+    border-radius: 30px;
+    position: relative;
+    right: -45px;
+}
+.slick-dots{
+    display: none !important;
+}
+.con-4{
+
+position: relative;
+top: 5px;
+
+}
+.con-6{
+
+    position: relative;
+    top: 5px;
+    
+    }
+
+    .r1{
+     position: relative;
+     left: -0.5px;
+     text-align: center;
+
+    }
+    .stable-work-process{
+        position: relative;
+        left: 10px;
+    }
+
+    .FS-cont .form-group input {
+        height: 70px;
+        width: 300px;
+        border-radius: 50px;
+    }
+    .FS-cont .form-group input::placeholder {
+        color: #666666;
+        font-size: 12px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        padding-left: 10px;
+    }
+
+
+    .FS-cont .farm button {
+        height: 70px;
+        width: 120px;
+        position: relative;
+        left: -100px;
+        border-radius: 50px;
+        padding-right: 70px;
+        padding-left: 20px;
+        color: #fff;
+        font-size: 16px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        background-color: #3cbfae;
+        text-transform: uppercase;
+        transition: .5s all ease-in-out;
+    }
+    .rightSection span{
+
+        display: none !important;
+    }
+
+    .rightSection{
+        position: absolute;
+        top: -24px;
+        left: 180px;
+        margin-right: 0px;
+    }
+
+     
+}
+
